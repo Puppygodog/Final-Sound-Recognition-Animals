@@ -1,0 +1,35 @@
+body{
+  font-family: 'Single Day', cursive;
+  background-color:salmon; 
+}
+.header_div
+  {
+  background:burlywood;
+  color:coral;
+  }
+  .header_div p{
+    font-family: 'Caveat', cursive;
+    color:darkred;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold; 
+  }
+  .main_div button{
+    font-family: 'Caveat', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+  .copy_right_footer{
+    position: fixed;
+    color:black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:chocolate;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+  }
+
